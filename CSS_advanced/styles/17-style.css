@@ -45,7 +45,7 @@ a:active { text-decoration: none; background-color: var(--color-light-grey);}
 
 .section-header {
     text-align: var(--section-header-align);
-
+    padding: var(--section-header-padding);
     padding-left: var(--section-header-padding);
     padding-right: var(--section-header-padding);
     padding-top: var(--section-header-padding);
