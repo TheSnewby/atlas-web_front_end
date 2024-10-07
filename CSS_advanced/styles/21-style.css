@@ -114,7 +114,7 @@ ul.row {
     list-style: none;
 }
 
-[class^="col-"] {
+[class^="col-"] { /* targets all classes that begin(^) with that string */
     float: left;
     padding: 0.5rem;
 }
