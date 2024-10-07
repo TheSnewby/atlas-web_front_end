@@ -140,10 +140,10 @@ ul.row {
 }
 
 .social-link {
-    shape-rendering: block;
+    display: block;
 }
 
-.social-link svg {
+.social-link > svg {
     color: var(--text-color);
 }
 
