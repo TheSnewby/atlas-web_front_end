@@ -40,7 +40,7 @@ a:active { text-decoration: none; background-color: var(--color-light-grey);}
     margin: 0;
 }
 
-.card-services a:link {
+.card-services a {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
