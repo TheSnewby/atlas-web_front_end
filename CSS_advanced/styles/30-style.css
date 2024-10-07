@@ -100,7 +100,7 @@ a:active { text-decoration: none; background-color: var(--color-light-grey);}
     z-index: 1;
 }
 
-.card-work .card-inner:hover {
+.card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -124,7 +124,7 @@ a:active { text-decoration: none; background-color: var(--color-light-grey);}
     content: "";
 }
 
-.card-work .card-title:hover {
+.card-work:hover .card-title {
     opacity: 1;
 }
 
